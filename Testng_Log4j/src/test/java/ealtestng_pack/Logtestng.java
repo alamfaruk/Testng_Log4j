@@ -36,6 +36,7 @@ public class Logtestng extends utilitie_1 {
          test.addScreenCaptureFromPath(capturessfor("failed"),"verify hompage failed");
 	 }
 	 System.out.println("this is alam");
+	  System.out.println("this ia faruk");
 	 
 	  
 	  
